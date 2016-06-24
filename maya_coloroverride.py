@@ -1,5 +1,5 @@
 ## Maya Display Color + Visibility Override extension
-## Shown at: https://www.youtube.com/watch?v=NoUiMNqP2R0
+## As seen at: https://www.youtube.com/watch?v=NoUiMNqP2R0
 ## Johannes Pagwiwoko
 ## http://yoarikso.tumblr.com
 
