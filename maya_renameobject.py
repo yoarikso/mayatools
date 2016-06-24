@@ -1,5 +1,5 @@
 ## Maya Rename Object Dialog
-## Shown at: https://www.youtube.com/watch?v=BmhA5jBf8xc
+## As seen at: https://www.youtube.com/watch?v=BmhA5jBf8xc
 ## Johannes Pagwiwoko
 ## http://yoarikso.tumblr.com
 
